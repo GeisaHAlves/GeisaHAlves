@@ -7,9 +7,10 @@
 </div>
 <div>
 <a href="https://github.com/GeisaHAlves/">
-<img width="61%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeisaHAlves&theme=blueberry"/>
-<img width="37%" src="https://github-readme-stats-grazi-grazifalk.vercel.app/api/top-langs/?username=GeisaHAlves&layout=compact&langs_count=16&theme=blueberry"/>
-
+<img width="57%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeisaHAlves&theme=tokyonight"/>
+<img width="41%" src="https://github-readme-stats-grazi-grazifalk.vercel.app/api/top-langs/?username=GeisaHAlves&layout=compact&langs_count=16&theme=blueberry"/>
+</div>
+  
 ##
 
 ![Snake animation](https://github.com/GeisaHAlves/GeisaHAlves/blob/output/github-contribution-grid-snake.svg)
