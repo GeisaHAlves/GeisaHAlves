@@ -6,13 +6,13 @@
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GeisaHAlves&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=blueberry"/>
 </div>
 
-  <div>
-<a href="https://github.com/GeisaHAlves/">
-<img width="57%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeisaHAlves&theme=tokyonight"/>
-<img width="41%" src="https://github-readme-stats-grazi-grazifalk.vercel.app/api/top-langs/?username=GeisaHAlves&layout=compact&langs_count=16&theme=blueberry"/>
+ <div>
+  <a href="https://github.com/GeisaHAlves/">
+  <img width="57%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeisaHAlves&theme=tokyonight"/>
+  <img width="41%" src="https://github-readme-stats-grazi-grazifalk.vercel.app/api/top-langs/?username=GeisaHAlves&layout=compact&langs_count=16&theme=blueberry"/>
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)    
-  </div>
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)    
+ </div>
   
 ##
 
@@ -21,7 +21,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GeisaHAlves&label=Profile%20views&color=0e75b6&style=flat" alt="GeisaHAlves" /> </p>
 
 <!--
-**GeisaHAlves/GeisaHAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**grazifalk/grazifalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
