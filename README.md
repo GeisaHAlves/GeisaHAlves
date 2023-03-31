@@ -12,13 +12,15 @@
 </div>
   
 ##
+  
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)  
 
 ![Snake animation](https://github.com/GeisaHAlves/GeisaHAlves/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GeisaHAlves&label=Profile%20views&color=0e75b6&style=flat" alt="GeisaHAlves" /> </p>
 
 <!--
-**grazifalk/grazifalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GeisaHAlves/GeisaHAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
