@@ -19,14 +19,19 @@
 <div>
   <a href="https://github.com/GeisaHAlves/">
   <img width="57%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeisaHAlves&theme=tokyonight"/>
- 
 </div>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GeisaHAlves&label=Profile%20views&color=0e75b6&style=flat" alt="GeisaHAlves" /> </p>
 
 ##
  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GeisaHAlves&label=Profile%20views&color=0e75b6&style=flat" alt="GeisaHAlves" /> </p>
+ 
+<div align="left">
+<a href="https://www.linkedin.com/in/geisa-h-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>  
+
+##
  
  ![Snake animation](https://github.com/GeisaHAlves/GeisaHAlves/blob/output/github-contribution-grid-snake.svg)
-
+ 
+  
 
