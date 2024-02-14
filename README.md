@@ -1,5 +1,8 @@
 ###                                          Olá! Eu sou Geisa! 👋
-#### Atualmente estou participando do Desenvolve, programa de Formação e Inclusão de Talentos em Tecnologia do GRUPO BOTICÁRIO, na Trilha FullStack.
+
+#### Concluí a Residência em TIC/Software FullStack no SERRATEC.
+
+#### Participei do Desenvolve, programa de Formação e Inclusão de Talentos em Tecnologia do GRUPO BOTICÁRIO, na Trilha FullStack.
  
 ##### 💻Lógica de Programação, JavaScript, HTML, CSS, Node.js, Git e Github.
 
